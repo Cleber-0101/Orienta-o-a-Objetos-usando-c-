@@ -1,0 +1,15 @@
+C:\ScreenSoundsApp\ScreenSoundsApp\bin\Debug\net8.0\ScreenSoundsApp.exe
+C:\ScreenSoundsApp\ScreenSoundsApp\bin\Debug\net8.0\ScreenSoundsApp.deps.json
+C:\ScreenSoundsApp\ScreenSoundsApp\bin\Debug\net8.0\ScreenSoundsApp.runtimeconfig.json
+C:\ScreenSoundsApp\ScreenSoundsApp\bin\Debug\net8.0\ScreenSoundsApp.dll
+C:\ScreenSoundsApp\ScreenSoundsApp\bin\Debug\net8.0\ScreenSoundsApp.pdb
+C:\ScreenSoundsApp\ScreenSoundsApp\obj\Debug\net8.0\ScreenSoundsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\ScreenSoundsApp\ScreenSoundsApp\obj\Debug\net8.0\ScreenSoundsApp.AssemblyInfoInputs.cache
+C:\ScreenSoundsApp\ScreenSoundsApp\obj\Debug\net8.0\ScreenSoundsApp.AssemblyInfo.cs
+C:\ScreenSoundsApp\ScreenSoundsApp\obj\Debug\net8.0\ScreenSoundsApp.csproj.CoreCompileInputs.cache
+C:\ScreenSoundsApp\ScreenSoundsApp\obj\Debug\net8.0\ScreenSoundsApp.sourcelink.json
+C:\ScreenSoundsApp\ScreenSoundsApp\obj\Debug\net8.0\ScreenSoundsApp.dll
+C:\ScreenSoundsApp\ScreenSoundsApp\obj\Debug\net8.0\refint\ScreenSoundsApp.dll
+C:\ScreenSoundsApp\ScreenSoundsApp\obj\Debug\net8.0\ScreenSoundsApp.pdb
+C:\ScreenSoundsApp\ScreenSoundsApp\obj\Debug\net8.0\ScreenSoundsApp.genruntimeconfig.cache
+C:\ScreenSoundsApp\ScreenSoundsApp\obj\Debug\net8.0\ref\ScreenSoundsApp.dll
