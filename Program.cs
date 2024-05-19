@@ -1,18 +1,19 @@
 ﻿
 
 Musica musica1 = new Musica();
-musica1.nome = "Minha dama";
-musica1.artista = "Sidoka";
-
+musica1.Nome = "Minha dama";
+musica1.Artista = "Sidoka";
+musica1.Duracao = 245;
+musica1.Disponivel = true;
+Console.WriteLine(musica1.DescricaoResumida);
 
 Musica musica2 = new Musica();
-musica2.nome = "olhos de tigre";
-musica2.artista = "Djonga";  
+musica2.Nome = "olhos de tigre";
+musica2.Artista = "Djonga";
+musica2.Duracao = 520;
+musica2.Disponivel = false;
 
-Console.WriteLine($"Nome da musica: {musica1.nome}");
-Console.WriteLine($"Nome do artista: {musica1.artista}");
-Console.WriteLine("***********************************");
-Console.WriteLine($"Nome da musica: {musica2.nome}");
-Console.WriteLine($"Nome do artista: {musica1.artista}");
-
+musica1.ExibirFichaTecnica();
+Console.WriteLine("************************************");
+musica2.ExibirFichaTecnica();
 
