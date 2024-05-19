@@ -1,19 +1,15 @@
-﻿
+﻿Album Djonga = new Album();
+Djonga.Nome = "O menino queria ser Deus";
 
 Musica musica1 = new Musica();
-musica1.Nome = "Minha dama";
-musica1.Artista = "Sidoka";
-musica1.Duracao = 245;
-musica1.Disponivel = true;
-Console.WriteLine(musica1.DescricaoResumida);
+musica1.Nome = "fantasma";
 
 Musica musica2 = new Musica();
-musica2.Nome = "olhos de tigre";
-musica2.Artista = "Djonga";
-musica2.Duracao = 520;
-musica2.Disponivel = false;
+musica2.Nome = "Corra";
 
-musica1.ExibirFichaTecnica();
-Console.WriteLine("************************************");
-musica2.ExibirFichaTecnica();
 
+Djonga.AdicionarMusica(musica1);
+Djonga.AdicionarMusica(musica2);
+
+
+Djonga.ExibirMusicasDoAlbum();
