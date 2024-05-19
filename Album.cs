@@ -5,7 +5,15 @@ class Album
 {
 
     private List<Musica> musicas = new List<Musica> ();
-    public string Nome { get; set; }
+
+
+    //construtores
+    public Album(string nome)
+    { 
+        Nome = nome;
+    }
+
+    public string Nome { get;  }
     public int DuracaoTotal { get; set; }
 
 
